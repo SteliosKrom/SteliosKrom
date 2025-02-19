@@ -1,16 +1,19 @@
-# About me 👋
+#👾 Hey there, I’m Stelios Krom!
+Welcome to my little corner of GitHub! 🚀 I’m a passionate Game Developer bringing eerie atmospheres and immersive experiences to life.
 
-<!--
-**SteliosKrom/SteliosKrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🎮 What I'm Working On
+🔹 A 3D First-Person Psychological Horror Game – Prepare for an unsettling journey into the unknown.
+🔹 Exploring Game Mechanics, AI Navigation, VFX, SFX, and Game Design – because great games need great details.
 
-Here are some ideas to get you started:
+###🤝 Open to Collaboration!
+Got an awesome game idea? Need an extra hand on your project? I'm down to work on small- to medium-scale projects that push creativity and innovation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###📬 Reach Out
+💌 Email: thelegendknightgames@gmail.com
+💬 Ask me anything – let's talk games, dev, or just geek out about horror!
+
+###⚡ Fun Fact
+Even when I'm not making horror games, I'm probably playing them... or thinking about how to make them even scarier. 😈
+
+Let me know if you want any tweaks! 🚀
+
