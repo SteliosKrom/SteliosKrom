@@ -23,10 +23,5 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate **Game Developer*
 📧 **Email:** thelegendknightgames@gmail.com  
 💬 **Ask me anything** – Let's talk about games, dev, or just anything!  
 
----
-
-## ⚡ Fun Fact  
-Even when I'm not making horror games, I'm probably playing them... or thinking about how to make them even scarier. 😈  
-
 
 
