@@ -14,7 +14,7 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate **Game Developer*
 ---
 
 ## 🤝 Open to Collaboration  
-🚀 Looking to work on **small- to medium-scale projects** that push creativity and innovation!  
+🚀 Looking to work on **small-scale to medium-scale projects** that push creativity and innovation!  
 💡 If you have an idea or need a dev partner, let's create something awesome together!  
 
 ---
