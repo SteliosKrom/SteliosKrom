@@ -7,7 +7,7 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate **Game Developer*
 🔹 **Project:** A **3D First-Person Psychological Horror Game** – Prepare for an unsettling journey into the unknown.  
 🔹 **Current Learning Focus:**  
    - 🎯 **Core Game Development:** Game Mechanics, Game Design, AI Navigation  
-   - 🎨 **Visuals & Effects:** VFX, Shader Graph, UI/UX  
+   - 🎨 **Visuals & Effects:** VFX Graph, Shader Graph, UI/UX  
    - 🔊 **Audio & Sound Design:** SFX, Audio Implementation  
    - ⚙️ **Technical & Optimization:** Performance Debugging, Procedural Generation, Cinematics  
 
