@@ -21,7 +21,7 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate **Game Developer*
 
 ## 📬 Contact Me  
 📧 **Email:** thelegendknightgames@gmail.com  
-💬 **Ask me anything** – Let's talk games, dev, or just anything!  
+💬 **Ask me anything** – Let's talk about games, dev, or just anything!  
 
 ---
 
