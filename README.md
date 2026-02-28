@@ -6,13 +6,10 @@ Welcome to my GitHub corner! 🚀 I’m a passionate Game Developer creating imm
 
 I develop 2D & 3D games, primarily in Unity and secondarily in Unreal Engine, with a focus on:
 
-🎯 Game Mechanics & Design: AI, navigation, player interactions, and gameplay systems
-
-🎨 Visuals, Effects & Lighting: Creating mood, atmosphere, and engaging environments
-
-🔊 Audio & Sound Design: SFX, ambient audio, and immersive soundscapes
-
-⚙️ Technical & Optimization: Performance tuning, procedural generation, and cinematic experiences
+- 🎯 Game Mechanics & Design: AI, navigation, player interactions, and gameplay systems
+- 🎨 Visuals, Effects & Lighting: Creating mood, atmosphere, and engaging environments
+- 🔊 Audio & Sound Design: SFX, ambient audio, and immersive soundscapes
+- ⚙️ Technical & Optimization: Performance tuning, procedural generation, and cinematic experiences
 
 I enjoy exploring new tools and techniques to craft unique and memorable game experiences.
 
@@ -23,6 +20,5 @@ Open to collaborating on projects of any scale that value creativity, innovation
 📬 Contact
 
 📧 thelegendknightgames@gmail.com
-
 💬 Always happy to chat about games, development, or new ideas!
 
