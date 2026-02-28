@@ -1,27 +1,28 @@
-# 👾 Hey there, I’m Stelios Krom!  
-Welcome to my little corner of GitHub! 🚀 I’m a passionate **Game Developer** bringing eerie atmospheres and immersive experiences to life.  
+👾 Hey, I’m Stelios Krom!
 
----
+Welcome to my GitHub corner! 🚀 I’m a passionate Game Developer creating immersive, atmospheric experiences—especially in the horror and thriller genres.
 
-## 🎮 What I'm Working On  
-🔹 **Project:** A **3D First-Person Psychological Horror Game** – Prepare for an unsettling journey into the unknown.  
-🔹 **Current Learning Focus:**  
-   - 🎯 **Core Game Development:** Game Mechanics, Game Design, AI Navigation  
-   - 🎨 **Visuals & Effects:** VFX Graph, Shader Graph, UI/UX  
-   - 🔊 **Audio & Sound Design:** SFX, Audio Implementation  
-   - ⚙️ **Technical & Optimization:** Performance Debugging, Procedural Generation, Cinematics  
+🎮 My Focus
 
----
+I develop 2D & 3D games, primarily in Unity and secondarily in Unreal Engine, with a focus on:
 
-## 🤝 Open to Collaboration  
-🚀 Looking to work on **small-scale to medium-scale projects** that push creativity and innovation!  
-💡 If you have an idea or need a dev partner, let's create something awesome together!  
+🎯 Game Mechanics & Design: AI, navigation, player interactions, and gameplay systems
 
----
+🎨 Visuals, Effects & Lighting: Creating mood, atmosphere, and engaging environments
 
-## 📬 Contact Me  
-📧 **Email:** thelegendknightgames@gmail.com  
-💬 **Ask me anything** – Let's talk about games, dev, or just anything!  
+🔊 Audio & Sound Design: SFX, ambient audio, and immersive soundscapes
 
+⚙️ Technical & Optimization: Performance tuning, procedural generation, and cinematic experiences
 
+I enjoy exploring new tools and techniques to craft unique and memorable game experiences.
+
+🤝 Collaboration
+
+Open to collaborating on projects of any scale that value creativity, innovation, and immersive storytelling. Let’s build something unforgettable together!
+
+📬 Contact
+
+📧 thelegendknightgames@gmail.com
+
+💬 Always happy to chat about games, development, or new ideas!
 
