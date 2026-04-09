@@ -1,7 +1,7 @@
 👾 Hey, I’m Stelios Krom!
 
 Welcome to my GitHub corner! 🚀  
-I’m a passionate Game Developer focused on creating immersive, atmospheric experiences—especially in the horror and thriller genres.
+I’m a passionate Game Developer focused on creating immersive, atmospheric experiences—especially in the horror and thriller genres, with an emphasis on first-person psychological horror.
 
 ---
 
@@ -21,9 +21,6 @@ I’m a passionate Game Developer focused on creating immersive, atmospheric exp
 
 - 🎬 **Creative Media & Content Creation**  
   3D Art, Animation, Video Editing, and Pixel Art  
-
-- 🧠 **Current Direction**  
-  Developing first-person psychological horror experiences using Unity and Unreal Engine  
 
 ---
 
