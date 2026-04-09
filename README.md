@@ -1,35 +1,36 @@
 👾 Hey, I’m Stelios Krom!
 
-Welcome to my GitHub corner! 🚀 I’m a passionate Game Developer creating immersive, atmospheric experiences—especially in the horror and thriller genres.
+Welcome to my GitHub corner! 🚀 I’m a passionate Game Developer focused on creating immersive, atmospheric experiences—especially in the horror and thriller genres.
 
 🎮 My Focus
 
-I develop 2D & 3D games, primarily using Unity and also Unreal Engine, with a focus on:
+- 🎯 Game Mechanics & Design
+AI systems, navigation, player interactions, and core gameplay systems
+- 🎨 Visuals, Effects & Lighting
+Crafting mood, atmosphere, and immersive environments
+- 🔊 Audio & Sound Design
+SFX, ambient audio, and cinematic soundscapes
+- ⚙️ Technical Development & Optimization
+Performance tuning, procedural systems, and polished gameplay experiences
+- 🎬 Creative Media & Content Creation
+3D Art, Animation, Video Editing, and Pixel Art
+- 🧠 Current Direction
+Developing first-person psychological horror experiences using Unity and Unreal Engine
 
-🎯 Game Mechanics & Design
-- AI systems, navigation, player interactions, and core gameplay systems
+💡 Approach
 
-🎨 Visuals, Effects & Lighting
-- Crafting mood, atmosphere, and immersive environments
-
-🔊 Audio & Sound Design
-- SFX, ambient audio, and cinematic soundscapes
-
-⚙️ Technical Development & Optimization
-- Performance tuning, procedural systems, and polished gameplay experiences
-
-🎬 Creative Media & Content Creation
-- 3D Art, Animation, Video Editing, and Pixel Art—bringing ideas to life both technically and visually
-
-I’m always exploring new tools and techniques to create unique and memorable experiences.
+Passionate about blending technical systems with creative storytelling
+Constantly exploring new tools and techniques
+Focused on delivering immersive and memorable player experiences
 
 🤝 Collaboration
 
-Open to collaborating on projects of any scale that value creativity, innovation, and immersive storytelling. Let’s build something unforgettable together!
+Open to collaborations on projects of any scale
+Interested in creative, innovative, and story-driven experiences
+Comfortable working solo or in team environments
 
 📬 Contact
 
 📧 thelegendknightgames@gmail.com
-
-💬 Always happy to chat about games, development, or new ideas!
+💬 Always happy to chat about game development, ideas, or collaborations
 
