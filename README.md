@@ -1,7 +1,7 @@
 👾 Hey, I’m Stelios Krom!
 
 Welcome to my GitHub corner! 🚀  
-I’m a passionate Game Developer focused on creating immersive, atmospheric experiences—especially in the horror and thriller genres, with an emphasis on first-person psychological horror.
+I’m a passionate Game Developer focused on creating immersive, atmospheric experiences—especially in the horror and thriller genres.
 
 ---
 
