@@ -17,7 +17,12 @@ I’m a passionate Game Developer focused on creating immersive, atmospheric exp
   SFX, ambient audio, and cinematic soundscapes  
 
 - ⚙️ **Technical Development & Optimization**  
-  Performance tuning, procedural systems, and polished gameplay experiences  
+  Performance tuning, procedural systems, and polished gameplay experiences
+
+- 🛠️ **Tools & Frameworks**
+
+  Creating custom tools, utilities, reusable systems, and development frameworks
+  for game production and rapid prototyping.
 
 - 🎬 **Creative Media & Content Creation**  
   3D Art, Animation, Video Editing, and Pixel Art  
